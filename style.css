@@ -220,6 +220,7 @@ body {
   .card {
     height: 330px;
     width: 230px;
+    left:30%;
   }
 }
 .p {
