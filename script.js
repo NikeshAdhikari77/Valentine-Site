@@ -62,6 +62,7 @@ const yesfn = function () {
     p.style.display = "block";
     p1.style.display = "none";
     firstImage.style.display = "none";
+    modal.style.display = 'block'
     secondmodalfn();
   });
 };
